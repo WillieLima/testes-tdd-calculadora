@@ -1,0 +1,14 @@
+C:\c#\Desafio-calculadora\DesafioCalculadora\DesafioCalculadora\bin\Debug\netcoreapp3.1\DesafioCalculadora.exe
+C:\c#\Desafio-calculadora\DesafioCalculadora\DesafioCalculadora\bin\Debug\netcoreapp3.1\DesafioCalculadora.deps.json
+C:\c#\Desafio-calculadora\DesafioCalculadora\DesafioCalculadora\bin\Debug\netcoreapp3.1\DesafioCalculadora.runtimeconfig.json
+C:\c#\Desafio-calculadora\DesafioCalculadora\DesafioCalculadora\bin\Debug\netcoreapp3.1\DesafioCalculadora.runtimeconfig.dev.json
+C:\c#\Desafio-calculadora\DesafioCalculadora\DesafioCalculadora\bin\Debug\netcoreapp3.1\DesafioCalculadora.dll
+C:\c#\Desafio-calculadora\DesafioCalculadora\DesafioCalculadora\bin\Debug\netcoreapp3.1\DesafioCalculadora.pdb
+C:\c#\Desafio-calculadora\DesafioCalculadora\DesafioCalculadora\obj\Debug\netcoreapp3.1\DesafioCalculadora.csproj.AssemblyReference.cache
+C:\c#\Desafio-calculadora\DesafioCalculadora\DesafioCalculadora\obj\Debug\netcoreapp3.1\DesafioCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Desafio-calculadora\DesafioCalculadora\DesafioCalculadora\obj\Debug\netcoreapp3.1\DesafioCalculadora.AssemblyInfoInputs.cache
+C:\c#\Desafio-calculadora\DesafioCalculadora\DesafioCalculadora\obj\Debug\netcoreapp3.1\DesafioCalculadora.AssemblyInfo.cs
+C:\c#\Desafio-calculadora\DesafioCalculadora\DesafioCalculadora\obj\Debug\netcoreapp3.1\DesafioCalculadora.csproj.CoreCompileInputs.cache
+C:\c#\Desafio-calculadora\DesafioCalculadora\DesafioCalculadora\obj\Debug\netcoreapp3.1\DesafioCalculadora.dll
+C:\c#\Desafio-calculadora\DesafioCalculadora\DesafioCalculadora\obj\Debug\netcoreapp3.1\DesafioCalculadora.pdb
+C:\c#\Desafio-calculadora\DesafioCalculadora\DesafioCalculadora\obj\Debug\netcoreapp3.1\DesafioCalculadora.genruntimeconfig.cache
